@@ -1,1 +1,1 @@
-# Пустой репозиторий для работы с Java кодом в Android Studio wwwgrg
+# Пустой репозиторий для работы с Java кодом в Android Studio 1234
